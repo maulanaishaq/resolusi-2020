@@ -3,3 +3,4 @@ Resolusi 2020
 - SQL
 - GIT
 - SPRING
+- React Native
