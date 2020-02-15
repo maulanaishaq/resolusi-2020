@@ -1,0 +1,6 @@
+Resolusi 2020
+- Fokus Belajar Java
+- SQL
+- GIT
+- SPRING
+- React Native
